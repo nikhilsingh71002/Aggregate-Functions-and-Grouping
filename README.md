@@ -22,16 +22,17 @@ Task-4
 
  Analysis
              
-              Electronics → Highest sales because products are expensive.
+       Electronics → Highest sales because products are expensive.
               
-              Furniture → Medium sales, fewer items but decent price.
+       Furniture → Medium sales, fewer items but decent price.
               
-              Fashion → Low price per item but sells in large quantity.
+       Fashion → Low price per item but sells in large quantity.
 
 Takeaway:
           
-           Aggregate functions help quickly summarize and compare data across groups, so you can see which category is performing best.
+    Aggregate functions help quickly summarize and compare data across groups, so you can see which category is performing best.
 
+File Included:
 
-
+    Aggregate Functions and Grouping(Task-4).sql - SQL  for Aggregate Functions and Grouping to manage the data in table.
 
